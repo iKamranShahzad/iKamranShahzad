@@ -90,7 +90,7 @@
 
 ---
 
-<h2> ⭐ Star Reposotories that you like, to support!
+<h2> ⭐ Star Repositories that you like, to support!
 
 <br>
 
