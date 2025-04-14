@@ -7,8 +7,8 @@
   
 🔭 Focus: Currently working on building modern, scalable web apps with React &  Next.js.<br> 
 💬 Let’s Talk About: Scalable architecture, performance optimization, best practices.<br>
+🌱 Learning: Enhancing ExpressJS, NestJS, Next.js, SSR, and exploring new tools.<br> 
 👯 Collaboration: Open to contribute in open-source, starter projects.<br> 
-🌱 Learning: Enhancing Go, Next.js, SSR, and exploring new tools.<br> 
 ⚡ Fun Fact: I love simplifying complex problems!
   
 </div>
