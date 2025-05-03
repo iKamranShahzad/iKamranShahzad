@@ -34,7 +34,7 @@
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=go,nodejs,mongodb&perline=7" />
+        <img src="https://skillicons.dev/icons?i=nodejs,nest,mongodb&perline=7" />
       </a>
     </td>
     <td align="center">
