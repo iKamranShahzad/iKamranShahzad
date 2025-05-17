@@ -5,7 +5,7 @@
   
 ### Hi there, I'm [Kamran Shahzad!](https://github.com/iKamranShahzad) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
   
-🔭 Focus: Currently working on building modern, scalable web apps with React &  Next.js.<br> 
+🔭 Focus: Currently working on building modern, scalable web apps with Next.js & NestJS.<br> 
 💬 Let’s Talk About: Scalable architecture, performance optimization, best practices.<br>
 🌱 Learning: Enhancing Redis, NestJS, Next.js, SSR, ArangoDB and exploring new tools.<br> 
 👯 Collaboration: Open to contribute in open-source, starter projects.<br> 
