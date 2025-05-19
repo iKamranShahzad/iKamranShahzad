@@ -9,7 +9,7 @@
 💬 Let’s Talk About: Scalable architecture, performance optimization, best practices.<br>
 🌱 Learning: Enhancing Redis, NestJS, Next.js, SSR, ArangoDB and exploring new tools.<br> 
 👯 Collaboration: Open to contribute in open-source, starter projects.<br> 
-⚡ Fun Fact: I love simplifying complex problems!
+⚡ Fun Fact: I love to simplify complex problems!
   
 </div>
 
