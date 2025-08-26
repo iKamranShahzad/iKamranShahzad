@@ -7,7 +7,7 @@
   
 🔭 Focus: Currently working on building modern, scalable web-apps with Next.js & NestJS.<br> 
 💬 Let’s Talk About: Scalable architecture, performance optimization, best-practices.<br>
-🌱 Learning: Enhancing Redis, NestJS, Next.js, SSR, ArangoDB and exploring new tools.<br> 
+🌱 Learning: Enhancing Redis, NestJS, Next.js, CI/CD, ArangoDB and exploring new tools.<br> 
 👯 Collaboration: Open to contribute in open-source, starter projects.<br> 
 ⚡ Fun Fact: I love to simplify complex problems!
   
